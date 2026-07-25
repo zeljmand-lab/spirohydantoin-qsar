@@ -1,0 +1,15 @@
+name: chem
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - seaborn
+  - ipykernel
+  - python=3.11
+  - scikit-learn
+  - pandas
+  - chembl_webresource_client
+  - rdkit
+  - matplotlib
+  - jupyter
+prefix: D:\Users\PC\anaconda3\envs\chem
