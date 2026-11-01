@@ -1,0 +1,14 @@
+compound_id,series,substituent_formula,smiles
+1a,benzyl,H,c1ccc(CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O)cc1
+1b,benzyl,CH3,Cc1ccc(CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O)cc1
+1c,benzyl,OCH3,COc1ccc(CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O)cc1
+1d,benzyl,Cl,Clc1ccc(CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O)cc1
+1e,benzyl,Br,Brc1ccc(CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O)cc1
+1f,benzyl,CN,N#Cc1ccc(CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O)cc1
+1g,benzyl,NO2,O=[N+]([O-])c1ccc(CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O)cc1
+2a,phenacyl,OCH3,O=C(c1ccc(OC)cc1)CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O
+2b,phenacyl,F,O=C(c1ccc(F)cc1)CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O
+2c,phenacyl,Cl,O=C(c1ccc(Cl)cc1)CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O
+2d,phenacyl,Br,O=C(c1ccc(Br)cc1)CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O
+2e,phenacyl,CN,O=C(c1ccc(C#N)cc1)CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O
+2f,phenacyl,NO2,O=C(c1ccc([N+](=O)[O-])cc1)CN2C(=O)C3(CCC4=CC=CC=C4C3)NC2=O

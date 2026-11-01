@@ -1,0 +1,59 @@
+entry,substituent_smiles,formula,substituent_name,sigma_m,sigma_p,F,R,ref
+70,FC(F)(F),CF3,trifluoromethyl,0.43,0.54,0.38,0.16,183
+103,FC(F),CHF2,difluoromethyl,0.29,0.32,0.29,0.03,110
+203,COC(=O),COOCH3,methoxycarbonyl group,0.37,0.45,0.34,0.11,175
+43,[H],H,hydrogen,0,0,0.03,0,no quotation
+142,CO,OCH3,methoxy group,0.12,-0.27,0.29,-0.56,183
+5,Cl,Cl,chloro substituent,0.37,0.23,0.42,-0.19,183
+15,F,F,fluoro substituent,0.34,0.06,0.45,-0.39,183
+231,CN(C),N(CH3)2,dimethylamino group,-0.16,-0.83,0.15,-0.98,"185,183"
+2,Br,Br,bromo substituent,0.39,0.23,0.45,-0.22,183
+133,C,CH3,methyl group,-0.07,-0.17,0.01,-0.18,183
+289,CCC,CH2CH2CH3,propyl group,-0.06,-0.13,0.01,-0.14,"85,87"
+219,CC,CH2CH3,ethyl group,-0.07,-0.15,0.00,-0.15,183
+223,COC,CH2OCH3,methoxymethyl group,0.08,0.01,0.13,-0.12,85
+298,CN(C)C,CH2N(CH3)2,dimethylaminomethyl group,0.00,0.01,0.03,-0.02,74
+351,CC(C)C,CH2CH(CH3)2,isobutyl group,-0.07,-0.12,-0.01,-0.11,"174,87"
+288,CC(C),CH(CH3)2,isopropyl,-0.04,-0.15,0.04,-0.19,"85,183"
+45,O,OH,hydroxy group,0.12,-0.37,0.33,-0.70,183
+84,N#C,CN,cyano group,0.56,0.66,0.51,0.15,183
+104,FC(F)O,OCHF2,difluoromethoxy group,0.31,0.18,0.37,-0.19,146
+185,FC(F)(F)C,CH2CF3,"2,2,2-trifluoroethyl group",0.12,0.09,0.15,-0.06,109
+293,CC(C)O,OCH(CH3)2,isopropoxy group,0.10,-0.45,0.34,-0.79,183
+200,CC(=O),COCH3,acetyl group,0.38,0.50,0.33,0.17,183
+117,O=C,CHO,formyl group,0.35,0.42,0.33,0.09,"87,174"
+160,O=C(C(F)(F)F),COCF3,trifluoroacetyl group,0.63,0.80,0.54,0.26,110
+148,CS(=O)(=O),SO2CH3,methylsulfonyl group,0.60,0.72,0.53,0.19,183
+80,O=S(=O)(O)C(F)(F)F,OSO2CF3,trifluoromethanesulfonate group,0.56,0.53,0.56,-0.03,118
+222,C[C@@H](O),CH(OH)CH3,1-hydroxyethyl group,0.08,-0.07,0.16,-0.23,74
+434,CCCN(CCC),N(C3H7)2,dipropylamino group,-0.26,-0.93,0.06,-0.99,113
+390,CCCCCO,O(CH2)4CH3,pentyloxy group,0.10,-0.34,0.29,-0.63,183
+32,[N+](=O)[O-],NO2,nitro group,0.71,0.78,0.65,0.13,183
+,CC(C)(O),,2-hydroxy-2-propyl,,,,,not in HLT Table I
+,FC(F)C,,2-difluoroethyl,,,,,not in HLT Table I
+,CCC(C)C,,2-methylbutyl,,,,,not in HLT Table I
+,CCCN,,propylamino,,,,,not in HLT Table I
+,CCCN(CC(C)C),,isobutyl-propyl-amino,,,,,not in HLT Table I
+,CNS(=O)(=O)C,,N-methylsulfamoylmethyl,,,,,not in HLT Table I
+,NC(=O)C(=O),,oxamoyl,,,,,not in HLT Table I
+,CC(C)(C)C(=O)O,,pivaloyloxy,,,,,not in HLT Table I
+,CCC(=O)O,,propanoyloxy,,,,,not in HLT Table I
+,CC(C)C(=O)O,,isobutyryloxy,,,,,not in HLT Table I
+,CCN(CC)C,,diethylaminomethyl,,,,,not in HLT Table I
+,CC(C)N(C)C,,methyl-isopropyl-aminomethyl,,,,,not in HLT Table I
+,CC(C)(C)NC,,tert-butylaminomethyl,,,,,not in HLT Table I
+,CC(C)CN(C)C,,isobutyl-methyl-aminomethyl,,,,,not in HLT Table I
+,COCCN(C)C,,methoxyethyl-methyl-aminomethyl,,,,,not in HLT Table I
+,CCCCCCCO,,heptyloxy,,,,,not in HLT Table I
+,CCCCCCCCO,,octyloxy,,,,,not in HLT Table I
+,CCCCCCCCCO,,nonyloxy,,,,,not in HLT Table I
+,CCCCCCCCCCO,,decyloxy,,,,,not in HLT Table I
+,CCCCCCCCCCCO,,undecyloxy,,,,,not in HLT Table I
+,CC(C)(C)CCCCCCO,,dimethyloctyloxy,,,,,not in HLT Table I
+,CC(C)CCCCCCO,,methyloctyloxy,,,,,not in HLT Table I
+,CCCCCCCCCC,,decyl,,,,,not in HLT Table I
+,C.F,,two groups sharing one RGD label,,,,,not a single substituent
+,CCO.C,,two groups sharing one RGD label,,,,,not a single substituent
+,CO.C,,two groups sharing one RGD label,,,,,not a single substituent
+,FC(F)(F).O,,two groups sharing one RGD label,,,,,not a single substituent
+,C.O,,two groups sharing one RGD label,,,,,not a single substituent
