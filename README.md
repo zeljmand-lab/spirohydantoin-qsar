@@ -19,8 +19,13 @@ Thirteen target compounds come from the paper published in 2019, from the same a
 The compounds are two series of 3-substituted-7,8-benzo-1,3-diazaspiro[4.5]decane-2,4-diones, both substituted at position 3 of the hydantoin ring. The first is the benzyl series, 1a-1g, with X = H, CH₃, OCH₃, Cl, Br, CN, NO₂. The second is a phenacyl series, 2a-2f, with X = OCH₃, F, Cl, Br, CN, NO₂.
 Compounds were generated through a script from the published substituent table, verified by molecular weight against the paper and by visual inspection of the rendered structures.
 
-![Thirteen spirohydantoins from the 2019 paper](figures/compounds.png)
-*Seven benzyl (1a–1g) and six phenacyl (2a–2f) derivatives sharing the 7,8-benzo-1,3-diazaspiro[4.5]decane-2,4-dione core.*
+![Benzyl series](figures/benzyl_series_mols.png)
+*Benzyl series, 1a–1g.*
+
+![Phenacyl series](figures/phenacyl_series_mols.png)
+*Phenacyl series, 2a–2f.*
+
+Both series share the 7,8-benzo-1,3-diazaspiro[4.5]decane-2,4-dione core.
 
 
 ## 3. Data
